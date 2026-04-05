@@ -1,5 +1,13 @@
 # BuildDB - Mini Database Engine
 
+## Contributors
+- Tarun
+- Bhumit
+- Pratyush Jha
+- Pushkar Mishra
+- Sohail Khan
+
+
 A simplified Database Management System (DBMS) for educational purposes, demonstrating core database concepts including persistent storage, indexing, query parsing, execution, and transaction management.
 
 ## 🎯 Overview
