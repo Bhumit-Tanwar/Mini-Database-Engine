@@ -3,6 +3,14 @@
     "version": "1.0.0",
     "description": "Backend server for Mini Database Engine",
     "main": "server.js",
+    "author": "Mini Database Engine Team",
+    "keywords": [
+        "database",
+        "sqlite",
+        "backend",
+        "nodejs",
+        "educational"
+    ],
     "scripts": {
         "build": "npm --prefix \"../Mini-database engine frontend\" install && npm --prefix \"../Mini-database engine frontend\" run build",
         "start": "node server.js",
