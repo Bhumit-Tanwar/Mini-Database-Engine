@@ -2,6 +2,17 @@
   "name": "@figma/my-make-file",
   "private": true,
   "version": "0.0.1",
+  "description": "Frontend interface for Mini Database Engine",
+  "author": "Mini Database Engine Team",
+  "license": "MIT",
+  "keywords": [
+    "frontend",
+    "react",
+    "vite",
+    "ui",
+    "database",
+    "educational"
+  ],
   "type": "module",
   "scripts": {
     "build": "node ./node_modules/vite/bin/vite.js build",
